@@ -1,5 +1,4 @@
 # :cloud: **Software Engineering Eshkaf**
----
 
 ## **About**
 This repository is for software engineers who want to have a good cheat sheet on the main software topic.
@@ -20,7 +19,6 @@ In south region of Khorasan/Iran there is a area who people use a very old and a
 In this dialect **Eshkaf** meens __Shelf__
 
 
----
 
 ## **Contribution**
 We try to add one to two topics each week, but contribution is always welcome.
