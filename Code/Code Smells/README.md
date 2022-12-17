@@ -3,6 +3,10 @@
 - English
 
 # Code Smells
+
+## Image
+![Code Smells](Code Smells.png)
+## Detail
 - __Application-level__ smells
   - __Large class__: a class that contains too many types or contains many unrelated methods
   - __Feature envy__: a class that uses methods of another class excessively.
