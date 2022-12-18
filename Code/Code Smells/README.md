@@ -5,7 +5,7 @@
 # Code Smells
 
 ## Image
-![Code Smells](Code Smells.png)
+![Code Smells](./Code-Smells.png)
 ## Detail
 - __Application-level__ smells
   - __Large class__: a class that contains too many types or contains many unrelated methods
