@@ -12,6 +12,11 @@ You can add your translation to these folders using this convention :
 
 We will add the new image based on your new translation within a week. 
 
+## :ledger: **Contents**
+- [Code](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code)
+  - [Code Smeels](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code/Code%20Smells)
+  - [Coupling](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code/Coupling)
+
 
 ## :sunglasses: **Contribution**
 We try to add one to two topics each week, but contribution is always welcome.
