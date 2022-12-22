@@ -14,7 +14,7 @@ We will add the new image based on your new translation within a week.
 
 ## :ledger: **Contents**
 - [Code](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code)
-  - [Code Smeels](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code/Code%20Smells)
+  - [Code Smells](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code/Code%20Smells)
   - [Coupling](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code/Coupling)
 
 
