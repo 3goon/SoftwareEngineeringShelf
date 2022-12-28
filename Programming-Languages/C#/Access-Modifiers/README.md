@@ -1,5 +1,5 @@
 # C# Access Modifiers
-
+![Code Smells](./access-modifiers.png)
 ## Types
 - **public** : The type or member can be accessed by __any__ other code in the same assembly or another assembly that references it.
 - **private** :  The type or member can be accessed only by code in the __same__ `class` or `struct`
