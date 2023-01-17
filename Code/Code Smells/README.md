@@ -39,3 +39,8 @@
   - __Excessive return of data__: a function or method that returns more than what each of its callers needs.
   - __Excessive comments__: a class, function or method has irrelevant or trivial comments. A comment on an attribute setter/getter is a good example.
   - __Excessively long line of code (or God Line)__: A line of code which is too long, making the code difficult to read, understand, debug, refactor, or even identify possibilities of software reuse. 
+
+---
+
+## Sources 
+- [WikiPedia](https://en.wikipedia.org/wiki/Code_smell)
