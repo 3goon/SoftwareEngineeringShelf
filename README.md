@@ -1,8 +1,8 @@
 # :cloud: **Software Engineering Shelf**
 
 ## **About**
-This repository is for software engineers who want to have a good cheat sheet on the main software topic.
-There are many topics out there to navigate and learn, but we create a [learning path](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths) for topics. 
+This repository is for software engineers who want to have a good cheat sheet on the main software topics.
+There are many topics out there to navigate and learn, but we create a [learning path](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths) for main ones. 
 
 Each topic has categorized in a specific folder. inside each folder, there is a readme file which is the content of the sheet we designed.
 
