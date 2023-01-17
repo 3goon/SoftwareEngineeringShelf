@@ -8,7 +8,7 @@
 
 ## Nice to remember 
  - We could not have all three at the same time
- - There is a `CAP` theorem for databases too. 
+ - Consistency as defined in the `CAP` theorem is quite different from the consistency guaranteed in `ACID` database transactions.
 ---
 
 ## Source(s) 
