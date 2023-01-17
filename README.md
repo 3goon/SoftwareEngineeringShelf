@@ -13,6 +13,9 @@ You can add your translation to these folders using this convention :
 
 We will add the new image based on your new translation within a week. 
 
+## :bulb: **Paths**
+- [Architecture](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Architecture)
+
 ## :ledger: **Contents**
 - [Code](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code)
   - [Code Smells](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code/Code%20Smells)
