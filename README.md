@@ -28,3 +28,6 @@ We will add the new image based on your new translation within a week.
 
 ## :sunglasses: **Contribution**
 We try to add one to two topics each week, but contribution is always welcome.
+
+## :heart: **Support**
+Just give us a :star: or provide a suggestion by adding new issue. 
