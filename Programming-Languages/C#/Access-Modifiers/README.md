@@ -8,3 +8,12 @@
 - **protected internal** : The type or member can be accessed by __any code in the assembly__ in which it's declared, or from within a __derived `class` in another assembly__.
 - **private protected** : The type or member can be accessed by types __derived__ from the `class` that are __declared within its containing assembly__.
 - **file** (C# 11): The file modifier restricts a top-level type's scope and visibility to the `file` in which it's declared.
+
+---
+
+## Nice to remember
+- file is not a acctual access modifier
+
+---
+# Source(s)
+- MSDN
