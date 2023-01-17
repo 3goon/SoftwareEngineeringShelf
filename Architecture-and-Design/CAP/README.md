@@ -6,10 +6,10 @@
 
 ---
 
-__Nice to remember__ : 
+## Nice to remember 
  - We could not have all three at the same time
-
+ - There is a `CAP` theorem for databases too. 
 ---
 
-__Source(s)__ : 
+## Source(s) 
 - [WikiPedia](https://en.wikipedia.org/wiki/CAP_theorem)
