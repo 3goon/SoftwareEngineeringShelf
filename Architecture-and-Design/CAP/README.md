@@ -11,3 +11,4 @@
 
 ## Source(s) 
 - [WikiPedia](https://en.wikipedia.org/wiki/CAP_theorem)
+- [Youtube](https://www.youtube.com/watch?v=gkg-FAEXIkY)
