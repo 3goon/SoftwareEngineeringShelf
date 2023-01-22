@@ -12,9 +12,9 @@ the other units are not directly coupled.
 - **Low coupling** :  How strongly the objects are connected to each other?
 - **High cohesion** : How are the operations of any element are functionally 
 related?
-- **Polymorphism** :
-- **Protected variations** :
-- **Pure fabrication** :
+- **Polymorphism** : Responsibility for defining the variation of behaviors based on type is assigned to the type for which this variation happens.
+- **Protected variations** : It provides a well defined interface so that the there will be no affect on other units.
+- **Pure fabrication** : create a class that does not map to a domain object, and let it achieve this new responsibility in a cohesive way.
 
 ## Nice to remember
 - `Information expert` lead us to `high cohesion`.
@@ -27,3 +27,4 @@ related?
 - [Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 - [Boldare](https://www.boldare.com/blog/solid-cupid-grasp-principles-object-oriented-design/#what-is-solid-and-why-is-it-more-than-just-an-acronym?-what-is-grasp-and-why-is-it-challenging?)
 - [Colorado State University](https://home.cs.colorado.edu/~kena/classes/5448/f12/presentation-materials/rao.pdf)
+- [fluentcpp](https://www.fluentcpp.com/2021/06/23/grasp-9-must-know-design-principles-for-code/)
