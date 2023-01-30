@@ -7,7 +7,6 @@
   - **AWS Management Console**: the web-based console
   - **AWS Software Development Kits (SDKs)**: API calls to AWS can also be performed by executing code with programming languages. 
   - **The AWS Command Line Interface (CLI)**:  unified tool to manage AWS services.
--
 
 ## Nice to remember
 - __Regions__ should be choosen based on : __Latency__, __Price__, __Service availability__, __Data compliance__
