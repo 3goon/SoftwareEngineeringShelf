@@ -1,6 +1,6 @@
-# Definations
+# AWS Basics
 
-## Basics
+## Definations
 - **Regions** :  Regions are geographic locations worldwide where AWS hosts its data centers. 
 - **Availability Zones** : Inside every Region is a cluster of Availability Zones (AZ). An AZ consists of one or more data centers with redundant power, networking, and connectivity. 
 - **Interaction with AWS** : 
@@ -11,6 +11,8 @@
 ## Nice to remember
 - __Regions__ should be choosen based on : __Latency__, __Price__, __Service availability__, __Data compliance__
 - __AWS SDKs__ are available from C++, Go, Java, JavaScript, .NET, Node.js, PHP, Python, and Ruby.
+- __AWS Regions__ are clusters of Availability Zones, and __Availability Zones__ are clusters of data centers. 
+- Regions and Availability Zones are connected through highly available and redundant high-speed links.
 
 ## Resources
 - [AWS Regions and  Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
