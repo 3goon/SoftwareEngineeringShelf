@@ -7,6 +7,7 @@ There are many topics out there to navigate and learn, but we create a [learning
 Each topic has categorized in a specific folder. inside each folder, there is a readme file which is the content of the sheet we designed.
 
 ## :bulb: **Paths**
+- [Concepts](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Concept)
 - [Software engineer basics](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Development)
 - [Architecture](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Architecture)
 
