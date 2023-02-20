@@ -10,6 +10,7 @@ Each topic has categorized in a specific folder. inside each folder, there is a 
 - [Concepts](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Concept)
 - [Software engineer basics](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Development)
 - [Architecture](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Architecture)
+- [Cloud](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Paths/Architecture)
 
 ## :ledger: **Contents**
 - [Code](https://github.com/3goon/SoftwareEngineeringShelf/tree/main/Code)
